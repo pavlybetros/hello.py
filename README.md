@@ -1,3 +1,4 @@
 # hello.py
 paython training 
-print ("Hellow, Paython!")
+name = input()
+print (f"hellow", {name}!)
